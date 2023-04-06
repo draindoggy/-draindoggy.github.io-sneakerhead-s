@@ -104,3 +104,15 @@ padding: 25px 0 20px;
 margin: 0 30px;
 }
 }
+
+.brands {
+font-size: 22px;
+font-family: 'Ubuntu Condensed', sans-serif;
+color: #feb386;
+list-style-type: none;
+width: 1000px;
+padding-left: 120px;
+height: 0px;
+margin-top: 22px;
+margin-bottom: 0px;
+}
